@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Piotrek</h1>
+<h3 align="center">DAM/DAW student | Future software and web application developer.</h3>
 
-<!--
-**BudzowskiPiotrek/BudzowskiPiotrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+- 🌱 I’m currently learning OOP with Java, Object-Oriented Programming with Python, and advancing in JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 I’m a student of DAW/DAM
+
+- 💬 Ask me about Web Development | OOP
+
+- 📫 How to reach me piobudzows@gmail.com
+
+- 🔗 Connect with me on LinkedIn
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
