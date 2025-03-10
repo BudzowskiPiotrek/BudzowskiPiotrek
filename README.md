@@ -5,9 +5,9 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning OOP with Java, Object-Oriented Programming with Python, and advancing in JavaScript  
+- 🧑‍🎓 I’m a student of DAW/DAM
 
-- 🧑‍🎓 I’m a student of DAW/DAM  
+- 🌱 I’m currently learning OOP with Java, Object-Oriented Programming with Python, and advancing in JavaScript  
 
 - 💬 Ask me about Web Development | OOP  
 
