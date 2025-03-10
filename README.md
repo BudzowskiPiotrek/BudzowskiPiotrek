@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **piobudzows@gmail.com**  
 
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/piobudzows)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/piobudzows)  
 
 -  🛠️ Tech Stack
   
