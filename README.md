@@ -5,6 +5,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+
 - 🌱 I’m currently learning OOP with Java, Object-Oriented Programming with Python, and advancing in JavaScript
 
 - 🧑‍🎓 I’m a student of DAW/DAM
