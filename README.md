@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotrek</h1>
-<h3 align="center">DAM/DAW student | Future software and web application developer.</h3>
+<h3 align="center">DAM/DAW student | Future software and web application developer</h3>
 
 <div align="center">
   
