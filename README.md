@@ -30,7 +30,8 @@
   
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <h3>🌍 Top Languages</h3>
-    <img src="">
+    <img src="" width="100%">
+    
   </div>
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
