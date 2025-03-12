@@ -30,13 +30,13 @@
   
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <h3>🌍 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudzowskiPiotrek&layout=compact&exclude_repo=repo_con_cpp&theme=radical&cache_seconds=3600" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudzowskiPiotrek&layout=compact&exclude_repo=repo_con_cpp&theme=radical&cache_seconds=3600" width="70%">
     
   </div>
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=BudzowskiPiotrek&show_icons=true&theme=radical" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=BudzowskiPiotrek&show_icons=true&theme=radical" width="70%">
   </div>
 
 </div>
