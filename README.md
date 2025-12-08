@@ -39,7 +39,7 @@
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=BudzowskiPiotrek&show_icons=true&theme=radical" width="70%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BudzowskiPiotrek&theme=dark" alt="GitHub Streak">
   </div>
 
 </div>
