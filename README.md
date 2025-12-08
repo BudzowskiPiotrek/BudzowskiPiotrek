@@ -28,18 +28,3 @@
 ---
 
 
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <h3>🌍 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudzowskiPiotrek&layout=compact&exclude_repo=repo_con_cpp&theme=radical&cache_seconds=3600" width="70%">
-    
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BudzowskiPiotrek&theme=dark" alt="GitHub Streak">
-  </div>
-
-</div>
