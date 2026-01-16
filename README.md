@@ -19,11 +19,14 @@
 
 ### 📂 Featured Projects (Latest Development)
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[CentriMetro - Infrastructure Suite](https://github.com/BudzowskiPiotrek/Modem_Family)** | Comprehensive metro manager with **TCP Sockets**, **FTP** file sync, and **SMTP** mailing. | Java, Swing, TCP |
-| **[Hospital Management ERP](https://github.com/BudzowskiPiotrek/hospital-management-system)** | Robust administrative system for HR, Patient Care, and Infrastructure logs. | Java |
-| **[Gym Training Tracker](https://github.com/BudzowskiPiotrek/gym-management-system)** | SQL-based progress monitoring application with a dedicated GUI. | Python, SQL |
+
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **RadioWave** | Full-stack Radio Streaming platform with JWT & MariaDB. | C#, .NET, SQL | 🚀 Jan 9 |
+| **Combat Event System** | Tournament manager for fighting games (Angular/Python). | Angular, Python | 🚀 Jan 9 |
+| **FairPark** | Corporate parking lottery system with SQLite & Threads. | Android, Java | 🚀 Jan 9 |
+| **[CentriMetro](https://github.com/BudzowskiPiotrek/Modem_Family)** | Comprehensive infrastructure manager (TCP/FTP/SMTP). | Java, Swing | ✅ Public |
+| **[Hospital ERP](https://github.com/BudzowskiPiotrek/hospital-management-system)** | Robust administrative system for HR and patient care. | Java, Swing | ✅ Public |
 
 ---
 
