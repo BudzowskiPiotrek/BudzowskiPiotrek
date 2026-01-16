@@ -1,30 +1,49 @@
 <h1 align="center">Hi 👋, I'm Piotrek</h1>
-<h3 align="center">DAM/DAW student | Future software and web application developer</h3>
+<p align="center">
+  <strong>Junior Software Developer | Specialized in Backend (Java & .NET) & Frontend (Angular)</strong>
+</p>
 
 <div align="center">
-  
-🧑‍🎓 I’m a student of DAW/DAM  
-🌱 I’m currently learning OOP with Java, Object-Oriented Programming with Python, and advancing in JavaScript  
-💬 Ask me about Web Development | OOP  
-📫 How to reach me: **piobudzows@gmail.com**  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/piobudzows)  
+
+🚀 **Upcoming Intern** | Passionate about building scalable enterprise applications.  
+🛠️ Focused on **Java (Spring)**, **C# (.NET)**, and **Modern Web (Angular & TypeScript)**.  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/piobudzows) | piobudzows@gmail.com
 
 </div>
 
+---
 
+### 📂 Featured Projects (Latest Development)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</p>
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[CentriMetro - Infrastructure Suite](https://github.com/BudzowskiPiotrek/Modem_Family)** | Comprehensive metro manager with **TCP Sockets**, **FTP** file sync, and **SMTP** mailing. | Java, Swing, TCP |
+| **[Hospital Management ERP](https://github.com/BudzowskiPiotrek/hospital-management-system)** | Robust administrative system for HR, Patient Care, and Infrastructure logs. | Java |
+| **[Gym Training Tracker](https://github.com/BudzowskiPiotrek/gym-management-system)** | SQL-based progress monitoring application with a dedicated GUI. | Python, SQL |
 
 ---
 
+### 🛠️ Technical Stack & Skills
 
+* **Backend:** Java (Spring Boot), C# (.NET), Python.
+* **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3.
+* **Databases:** SQL (PostgreSQL, Oracle, MySQL, SQLite) & PL/SQL.
+* **Protocols & Tools:** Git, GitHub, FTP, SMTP, Sockets.
+
+---
+
+### 🎯 Development Roadmap (Internship Preparation)
+
+Actualmente profundizando en estas tecnologías para estar listo para el entorno laboral:
+- [ ] **Spring Boot:** Construcción de REST APIs robustas.
+- [ ] **Angular:** Mastering RxJS y gestión de estado.
+- [ ] **Testing:** Implementación de JUnit y pruebas de integración.
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
