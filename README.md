@@ -10,7 +10,7 @@
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/piobudzows) | piobudzows@gmail.com
 
 </div>
----
+
 
 ### 🚀 My Coding Journey
 > "You will find 50+ repositories here. They represent my daily evolution since day one of my software development studies—from basic POO logic to complex Full-Stack enterprise solutions. I believe in continuous learning and documenting every step of the way."
