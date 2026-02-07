@@ -22,9 +22,8 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **RadioWave** | Full-stack Radio Streaming platform with JWT & MariaDB. | C#, .NET, SQL | 🚀 Jan 22 |
 | **SecureAir Registry System** | Hybrid Airport Management System with Hibernate (SQL) & MongoDB. Multi-layered security: MD5 auth, DES data encryption, DSA signatures. | Java, Console | 🚀 Jan 12  
-| **Combat Event System** | Tournament manager for fighting games (Angular/Python). | Angular, Python | 🚀 Jan 9 |
+| **[Combat Event System](https://github.com/BudzowskiPiotrek/combat-event-system)** | Tournament manager for fighting games (Angular/Python). | Angular, Python | 🚀 Jan 9 |
 | **[FairPark](https://github.com/BudzowskiPiotrek/fairpark-android-system)** | Corporate parking lottery system with SQLite & Threads. | Android, Java | ✅ Public |
 | **[CentriMetro](https://github.com/BudzowskiPiotrek/centri-metro-system)** | Comprehensive infrastructure manager (TCP/FTP/SMTP). | Java, Swing | ✅ Public |
 | **[Hospital ERP](https://github.com/BudzowskiPiotrek/hospital-management-system)** | Robust administrative system for HR and patient care. | Java, Swing | ✅ Public |
