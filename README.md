@@ -22,7 +22,7 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **SecureAir Registry System** | Hybrid Airport Management System with Hibernate (SQL) & MongoDB. Multi-layered security: MD5 auth, DES data encryption, DSA signatures. | Java, Console | 🚀 Jan 12  
+| **[SecureAir Registry System](https://github.com/BudzowskiPiotrek/secureair-registry-system)** | Hybrid Airport Management System with Hibernate (SQL) & MongoDB. Multi-layered security: MD5 auth, DES data encryption, DSA signatures. | Java, Console | ✅ Public  
 | **[Combat Event System](https://github.com/BudzowskiPiotrek/combat-event-system)** | Tournament manager for fighting games (Angular/Python). | Angular, Python | ✅ Public |
 | **[FairPark](https://github.com/BudzowskiPiotrek/fairpark-android-system)** | Corporate parking lottery system with SQLite & Threads. | Android, Java | ✅ Public |
 | **[Centri Metro](https://github.com/BudzowskiPiotrek/centri-metro-system)** | Comprehensive infrastructure manager (TCP/FTP/SMTP). | Java, Swing | ✅ Public |
