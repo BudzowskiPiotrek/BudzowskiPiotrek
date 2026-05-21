@@ -1,56 +1,50 @@
-<h1 align="center">Hi 👋, I'm Piotrek</h1>
+<h1 align="center">Hi 👋, I'm Piotrek Budzowski</h1>
 <p align="center">
-  <strong>Junior Software Developer | Specialized in Backend (Java & .NET) & Frontend (Angular)</strong>
+  <strong>Software Developer | Specialized in .NET Core Backend & Enterprise Multiplatform Ecosystems (Kotlin & Next.js)</strong>
 </p>
 
 <div align="center">
 
-🚀 **Upcoming Intern** | Passionate about building scalable enterprise applications.  
-🛠️ Focused on **Java (Spring)**, **C# (.NET)**, and **Modern Web (Angular & TypeScript)**.  
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/piobudzows) | piobudzows@gmail.com
+⚙️ **Production Experience** | Proven history building enterprise tooling, secure REST APIs, and core infrastructure at **TDK Electronics**.  
+🛠️ Tech Focus: **C# (.NET 8)**, **Android Native (Kotlin + Jetpack Compose)**, and **Modern Web Architectures (React / Next.js)**.  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/piobudzows) | piobudzows@gmail.com | Málaga, Spain
 
 </div>
 
-
-### 🚀 My Coding Journey
-> "You will find 50+ repositories here. They represent my daily evolution since day one of my software development studies—from basic POO logic to complex Full-Stack enterprise solutions. I believe in continuous learning and documenting every step of the way."
-
----
-
-### 📂 Featured Projects (Latest Development)
-
-
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[SecureAir Registry System](https://github.com/BudzowskiPiotrek/secureair-registry-system)** | Hybrid Airport Management System with Hibernate (SQL) & MongoDB. Multi-layered security: MD5 auth, DES data encryption, DSA signatures. | Java, Console | ✅ Public  
-| **[Combat Event System](https://github.com/BudzowskiPiotrek/combat-event-system)** | Tournament manager for fighting games (Angular/Python). | Angular, Python | ✅ Public |
-| **[FairPark](https://github.com/BudzowskiPiotrek/fairpark-android-system)** | Corporate parking lottery system with SQLite & Threads. | Android, Java | ✅ Public |
-| **[Centri Metro](https://github.com/BudzowskiPiotrek/centri-metro-system)** | Comprehensive infrastructure manager (TCP/FTP/SMTP). | Java, Swing | ✅ Public |
-| **[Hospital ERP](https://github.com/BudzowskiPiotrek/hospital-management-system)** | Robust administrative system for HR and patient care. | Java, Swing | ✅ Public |
+### 🚀 Technical Overview & Engineering Principles
+I design and develop software driven by strict structural integrity: modular design patterns, **Clean Architecture (N-Tier, MVVM + UDF)**, loose coupling via explicit dependency isolation, and a deep focus on production-level engineering safeguard mechanisms (such as custom sliding-window authentication locks and custom network rate-limiting policies).
 
 ---
 
-### 🛠️ Technical Stack & Skills
+### 📂 Featured Production-Ready Architectures (Pinned Below)
 
-* **Backend:** Java (Spring Boot), C# (.NET), Python.
-* **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3.
-* **Databases:** SQL (PostgreSQL, Oracle, MySQL, SQLite) & PL/SQL.
-* **Protocols & Tools:** Git, GitHub, FTP, SMTP, Sockets.
+#### 🏋️‍♂️ [SetPoint - Core Backend API](https://github.com/BudzowskiPiotrek/setpoint-backend-api)
+*The centralized processing core for the SetPoint strength training ecosystem.*
+* **Architecture:** Traditional N-Tier System (API Layer, Business Logic Layer - BLL, Data Access Layer - DAL).
+* **Advanced Features:** Two-way incremental data synchronization engine (`ProcessPush` / `ProcessPull` algorithms utilizing memory-efficient `HashSet` data lookup sets for relational graph mapping), custom rolling sliding-window authentication lockout systems to mitigate distributed brute-force attacks, and native asynchronous execution multi-tenant network rate limiters (`429 TooManyRequests`).
+* **Stack:** .NET 8 (ASP.NET Core), C# 12, Entity Framework Core (Code-First Fluent API), PostgreSQL, Docker.
+
+#### 🏭 Corporate Tooling @ TDK Electronics S.A.U.
+*Production assets engineered directly during my software development tenure inside the Applications Management division:*
+* **Tooling Infrastructure:** Fully autonomous REST API framework mapped to highly optimized backend business validation kernels in .NET Core. Fully isolated Docker containers utilized for high-throughput automated generation systems (e.g., automated technical reporting tools).
+* **Relational Engineering:** Enterprise data model designs inside PostgreSQL, deploying structural migration protocols, complex dependency coupling mapping, and storage transaction optimizations.
+* **Full-Stack & Edge Testing:** Integrated enterprise multi-tenant user portals using React/Next.js consuming internal API pipelines. Engineered secure OAuth/Azure AD credential authentications and Offline PWA sandboxes.
 
 ---
 
-### 🎯 Development Roadmap (Internship Preparation)
+### 🛠️ Technical Stack & Production Competencies
 
-Actualmente profundizando en estas tecnologías para estar listo para el entorno laboral:
-- [ ] **Spring Boot:** Construcción de REST APIs robustas.
-- [ ] **Angular:** Mastering RxJS y gestión de estado.
-- [ ] **Testing:** Implementación de JUnit y pruebas de integración.
+* **Backend Engineering:** .NET Core 8, C#, Web API, LINQ, Entity Framework Core, Multithreading & Async Programming.
+* **Mobile & Frontend:** Android Native (Kotlin, Jetpack Compose, Room DB, WorkManager, MVVM + UDF Flow), React, Next.js, Vite.
+* **Databases & DevOps:** PostgreSQL, SQLite, SQL Server, Docker, IIS (Internet Information Services deployment), Linux (Ubuntu, SSH).
+* **Patterns & Practices:** Clean Code, Separation of Concerns, JWT Auth Architecture, RESTful API Design.
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
