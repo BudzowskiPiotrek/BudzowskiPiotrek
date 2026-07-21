@@ -70,7 +70,7 @@ Offline-first strength training ecosystem currently under active development.
 
 🔗 Repository:
 
-https://github.com/BudzowskiPiotrek/habityfit-backend-api
+https://github.com/BudzowskiPiotrek/setpoint-backend-api
 
 </td>
 
