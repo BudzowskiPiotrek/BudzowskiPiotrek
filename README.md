@@ -68,12 +68,12 @@ Offline-first strength training ecosystem currently under active development.
 
 <br>
 
-🔗 Repository:
 
-https://github.com/BudzowskiPiotrek/setpoint-backend-api
+🔗 API Repository: [Click here](https://github.com/BudzowskiPiotrek/setpoint-backend-api)
 
+<br>
 
-📦 APK: [Click here](https://drive.google.com/drive/folders/1y8lGGNjtNEDrMcDB-6XX-VkJXaoLrcw8)
+📦 APK Android: [Click here](https://drive.google.com/drive/folders/1y8lGGNjtNEDrMcDB-6XX-VkJXaoLrcw8)
 
 </td>
 
