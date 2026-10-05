@@ -32,7 +32,7 @@ Backend Developer focused on <strong>.NET / C#</strong> building APIs, offline-f
 
 <td width="45%" valign="top">
 
-### 🏋️ SetPoint
+### 🏋️ HabityFit
 
 Offline-first strength training ecosystem currently under active development.
 
@@ -66,15 +66,17 @@ Offline-first strength training ecosystem currently under active development.
 
 ✅ API protection & rate limiting
 
-<br>
+### Repositories & Downloads
 
+📦 **Android APK (Latest Build):** [Download / Test APK](https://drive.google.com/drive/folders/1y8lGGNjtNEDrMcDB-6XX-VkJXaoLrcw8)
 
-🔗 API Repository: [Click here](https://github.com/BudzowskiPiotrek/setpoint-backend-api)
+🖥️ **Backend API (.NET 8):** [habityfit-api-dotnet](https://github.com/BudzowskiPiotrek/habityfit-api-dotnet)
 
-<br>
+*Private — Preparing for public release 🚀*
 
-📦 APK Android: [Click here](https://drive.google.com/drive/folders/1y8lGGNjtNEDrMcDB-6XX-VkJXaoLrcw8)
+📱 **Android App:** `habityfit-android-compose`
 
+🌐 **Web Dashboard:** `habityfit-web-nextjs`
 </td>
 
 </tr>
