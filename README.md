@@ -131,7 +131,7 @@ Interested areas:
 
 ## Contact
 
-LinkedIn: linkedin.com/in/piobudzows
+LinkedIn: [linkedin.com/in/piobudzows](https://www.linkedin.com/in/piobudzows/)
 
 Email: piobudzows@gmail.com
 
