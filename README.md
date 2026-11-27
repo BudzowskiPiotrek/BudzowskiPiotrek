@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 I'm Piotrek Budzowski</h1>
+<h1 align="center">Hi I'm Piotrek Budzowski</h1>
 
 <p align="center">
 Backend Developer focused on <strong>.NET / C#</strong> building APIs, offline-first systems and real-world tooling.
 </p>
 
 <p align="center">
-📍 Málaga, Spain • 💼 Open to Junior .NET Backend opportunities
+Málaga, Spain • Open to Junior .NET Backend opportunities
 </p>
 
 <p align="center">
@@ -25,14 +25,14 @@ Backend Developer focused on <strong>.NET / C#</strong> building APIs, offline-f
 
 ---
 
-## 🚀 Current Main Project
+## Current Main Project
 
 <table>
 <tr>
 
 <td width="45%" valign="top">
 
-### 🏋️ HabityFit
+### HabityFit
 
 Offline-first strength training ecosystem currently under active development.
 
@@ -72,11 +72,9 @@ Offline-first strength training ecosystem currently under active development.
 
 🖥️ **Backend API (.NET 8):** [habityfit-api-dotnet](https://github.com/BudzowskiPiotrek/habityfit-api-dotnet)
 
-*Private — Preparing for public release 🚀*
+📱 **Android App:** [habityfit-android-compose](https://github.com/BudzowskiPiotrek/habityfit-android-compose)
 
-📱 **Android App:** `habityfit-android-compose`
-
-🌐 **Web Dashboard:** `habityfit-web-nextjs`
+🌐 **Portfolio:** [habityfit-web-nextjs](https://github.com/BudzowskiPiotrek/habityfit-web-nextjs)
 </td>
 
 </tr>
@@ -84,7 +82,7 @@ Offline-first strength training ecosystem currently under active development.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Developer Intern — TDK Electronics
 
@@ -102,7 +100,7 @@ Main areas:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -118,7 +116,7 @@ Docker • Linux • Ubuntu • SSH • IIS • Nginx
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 Currently looking for my **first professional opportunity as a .NET Backend Developer** while continuing the development of SetPoint and expanding my backend engineering skills.
 
